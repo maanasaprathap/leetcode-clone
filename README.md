@@ -3,11 +3,6 @@
 
 A full-featured LeetCode clone built with **Next.js**, **React**, **Tailwind CSS**, **TypeScript**, **Recoil**, and **Firebase**. This project allows users to sign up, log in, solve algorithm problems, and track their submissions – mimicking the experience of LeetCode.
 
-> 🎥 Built following [@codesistency](https://www.youtube.com/@codesistency)'s project tutorial  
-> 🔗 [Watch full tutorial](https://www.youtube.com/watch?v=HhZTIh3e-KY)
-
----
-
 
 ## 🧰 Tech Stack
 
