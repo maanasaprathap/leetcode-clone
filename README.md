@@ -8,11 +8,6 @@ A full-featured LeetCode clone built with **Next.js**, **React**, **Tailwind CSS
 
 ---
 
-## 🚀 Live Demo
-
-👉 [https://leetclone.vercel.app/problems](https://leetclone.vercel.app/problems)
-
----
 
 ## 🧰 Tech Stack
 
